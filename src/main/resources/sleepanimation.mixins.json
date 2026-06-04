@@ -3,7 +3,7 @@
 	"package": "net.korin.sleepanimation.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
-		"ExampleMixin"
+		"SleepMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
